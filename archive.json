@@ -1,0 +1,98 @@
+[
+    {
+        "filename": "Magisk Manager ",
+        "devicespecific": "No",
+        "lastupdated": "Jul 21, 2022",
+        "link": "https://github.com/topjohnwu/Magisk/releases"
+    },
+    {
+        "filename": "Ad Away (Adblocker)",
+        "devicespecific": "No",
+        "lastupdated": "May 20, 2022",
+        "link": "https://f-droid.org/packages/org.adaway/"
+    },
+    {
+        "filename": "Energized Protection (v1.3.6)",
+        "devicespecific": "No",
+        "lastupdated": "Feb 05, 2022",
+        "link": "https://telegram.me/EnergizedProtectionUpdates/"
+    },
+    {
+        "filename": "YAKT (Yet Another Kernel Tweaker)",
+        "devicespecific": "No",
+        "lastupdated": "May 30, 2022",
+        "link": "https://github.com/NotZeetaa/YAKT/releases"
+    },
+    {
+        "filename": "ViPER4Android FX [WSTprojects]",
+        "devicespecific": "No",
+        "lastupdated": "Mar 17, 2020",
+        "link": "https://github.com/WSTxda/ViperFX-RE-Releases/releases"
+    },
+    {
+        "filename": "Quick Pic Gallery [WSTprojects]",
+        "devicespecific": "No",
+        "lastupdated": "April 12, 2022",
+        "link": "https://github.com/WSTxda/QP-Gallery-Releases/releases"
+    },
+    {
+        "filename": "MicroG RE [WSTprojects]",
+        "devicespecific": "No",
+        "lastupdated": "April 12, 2022",
+        "link": "https://github.com/WSTxda/MicroG-RE/releases"
+    },
+    {
+        "filename": "Wallfever (Wallpaper App)",
+        "devicespecific": "No",
+        "lastupdated": "April 12, 2022",
+        "link": "https://play.google.com/store/apps/dev?id=4965949768579482991"
+    },
+    {
+        "filename": "Pixel Props by @T3SL4",
+        "devicespecific": "No",
+        "lastupdated": "April 12, 2022",
+        "link": "https://www.pling.com/p/2129780"
+    },
+    {
+        "filename": "YouTube AdAway",
+        "devicespecific": "No",
+        "lastupdated": "Jan 31, 2025",
+        "link": "https://github.com/wanam/YouTubeAdAway/releases"
+    },
+    {
+        "filename": "ViPER4Android (root)",
+        "devicespecific": "No",
+        "lastupdated": "Jan 31, 2025",
+        "link": "https://github.com/AndroidAudioMods/ViPER4Android/releases"
+    },
+    {
+        "filename": "ViPER4Android FX (non root)",
+        "devicespecific": "No",
+        "lastupdated": "Jan 31, 2025",
+        "link": "https://t.me/modulesrepo/219"
+    },
+    {
+        "filename": "adb and Fastboot drivers",
+        "devicespecific": "No",
+        "lastupdated": "Jan 31, 2025",
+        "link": "https://t.me/modulesrepo/303"
+    },
+    {
+        "filename": "Lawnchair Magisk",
+        "devicespecific": "No",
+        "lastupdated": "Jan 31, 2025",
+        "link": "https://www.pling.com/p/1980061/"
+    },
+    {
+        "filename": "REI Theme Engine",
+        "devicespecific": "No",
+        "lastupdated": "Jan 31, 2025",
+        "link": "https://waifu-clock.github.io/"
+    },
+    {
+        "filename": "Google Camera Port",
+        "devicespecific": "No",
+        "lastupdated": "October 16, 2022",
+        "link": "https://www.celsoazevedo.com/files/android/google-camera/"
+    }
+]
