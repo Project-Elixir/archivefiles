@@ -16,5 +16,11 @@
         "devicespecific": "No",
         "lastupdated": "Feb 05, 2022",
         "link": "https://t.me/EnergizedProtectionUpdates/88"
+    },
+    {
+        "filename": "YAKT (Yet Another Kernel Tweaker)",
+        "devicespecific": "No",
+        "lastupdated": "May 30, 2022",
+        "link": "https://github.com/NotZeetaa/YAKT/releases"
     }
 ]
