@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "Magisk Manager v24.3",
+        "devicespecific": "No",
+        "lastupdated": "Mar 10, 2022",
+        "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk"
+    },
+    {
+        "filename": "Ad Away (Adblocker)",
+        "devicespecific": "No",
+        "lastupdated": "May 20, 2022",
+        "link": "https://f-droid.org/packages/org.adaway/"
+    },
+    {
+        "filename": "Energized Protection (v1.3.6)",
+        "devicespecific": "No",
+        "lastupdated": "Feb 05, 2022",
+        "link": "https://t.me/EnergizedProtectionUpdates/88"
+    }
+]
