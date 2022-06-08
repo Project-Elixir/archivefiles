@@ -22,5 +22,29 @@
         "devicespecific": "No",
         "lastupdated": "May 30, 2022",
         "link": "https://github.com/NotZeetaa/YAKT/releases"
+    },
+    {
+        "filename": "ViPER4Android FX (non root)",
+        "devicespecific": "No",
+        "lastupdated": "Mar 17, 2020",
+        "link": "https://t.me/modulesrepo/220"
+    },
+    {
+        "filename": "ViPER4Android FX (root) (magisk)",
+        "devicespecific": "No",
+        "lastupdated": "Oct 28, 2020",
+        "link": "https://t.me/WSTprojects/1245"
+    },
+    {
+        "filename": "Octavi OS Dialer",
+        "devicespecific": "No",
+        "lastupdated": "Aug 09, 2021",
+        "link": "https://index.teamfiles.workers.dev/0:/OctaviOS-Dialer.apk"
+    },
+    {
+        "filename": "QuickPic Gallery Mod",
+        "devicespecific": "No",
+        "lastupdated": "April 12, 2022",
+        "link": "https://t.me/WSTprojects/1239"
     }
 ]
